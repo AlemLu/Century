@@ -13,6 +13,36 @@
     <script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/menu.js"></script>
+
+<script type="application/ld+json">  
+ {
+    "@context" : "http://schema.org",   
+    "@type" : "Organization",  
+    "url" : "http://alemce.ga/servicios.php",  
+    "contactPoint" : [  
+     { "@type" : "ContactPoint",   
+       "telephone" : "+ 54986342486",  
+       "contactType" : "customer service",
+       "areaServed" : "PERÚ" 
+      }, {  
+      "@type" : "ContactPoint",  
+      "telephone" : "+ 54044462564",  
+      "contactType" : "customer service",
+      "areaServed" : "PERÚ" 
+      }, {  
+      "@type" : "ContactPoint",  
+      "telephone" : "+ 54996429282",  
+      "contactType" : "customer service",
+      "areaServed" : "PERÚ" 
+      }],
+     "email" : "oficinacentra@centurysac.com" ,
+     "address" : {
+     	"addressLocality" : "Trujillo, Perú" ,
+    	"streetAddress" : "Mza. 68 LOTE. 6 A.H. Las Lomas ETAPA 2" 
+ 	  },
+      "name" : "Century SAC"
+  }
+</script>
    
 </head>
 <body>

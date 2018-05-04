@@ -1,7 +1,7 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head lang="en">
-    <meta name="google-site-verification" content="SSer6EC8rohxvj0ZXmxTqwwU2QvSbP9SCApq1snoGiM" />
+<meta name="google-site-verification" content="meoyS2XpOvKoXl6y49QMqiMCRzTH4CoaQVMR2zAltFg" />
     <title>CENTURY | Tu seguridad nuestro compromiso</title>
 
     <meta charset="UTF-8">
@@ -17,6 +17,20 @@
     <script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/menu.js"></script>
+
+    <script type="application/ld+json">
+    {
+    "@context" : "http://schema.org",
+	"@type" : "MedicalOrganization",
+	"location" : {
+    	"@type" : "Hospital",
+    	"name" : "Hospital Regional Docente de Trujillo",
+        "sameAs" : "http://www.hrdt.com.pe/",
+	"image" : "http://www.hrdt.com.pe/images/HRDT/portal/valores-hrdt.jpg"
+        }
+    }
+  </script>
+
 </head>
 <body>
    
@@ -37,7 +51,7 @@
                    <li><a href="nosotros.php"><span class="glyphicon glyphicon-user"></span> Nosotros</a></li>
                    <li><a href="requerimientos.php"><span class="glyphicon glyphicon-screenshot"></span> Trabaja con Nosotros</a></li>
                    <li><a href="servicios.php"><span class="glyphicon glyphicon-briefcase"></span> Servicios</a></li>
-                   <li><a href="contactenos.php"><span class="glyphicon glyphicon-envelope"></span> ContÃ¡ctenos</a></li>
+                   <li><a href="contactenos.php"><span class="glyphicon glyphicon-envelope"></span> Contáctenos</a></li>
                </ul>
            </nav>
        </div>
@@ -47,15 +61,15 @@
    <!-- Cuerpo -->
     <!-- Quienes Somos -->
     <div class="row contenedor">
-        <h1 class="century-h1">Â¿QUIÃ‰NES SOMOS?</h1>
+        <h1 class="century-h1">¿QUIÉNES SOMOS?</h1>
 	    <hr>
             <div class="col-xs-4 col-sm-4 col-md-4">
                <center>
                    <img class="img-quienessomos" src="images/guardia.png"></center>
             </div>
             <div class="col-xs-8 col-sm-8 col-md-8">
-                <p class="letra-quienessomos">Empresa que brinda servicios de vigilancia privada, cuenta con un sÃ³lido prestigio en el mercado gracias a sus lineamientos de eficacia, responsabilidad, disciplina y prevenciÃ³n.</p>
-                <p class="letra-quienessomos"> Cuenta con mas de 2 aÃ±os trabajando en el mercado de seguridad corporativo, mejorando y modernizando cada aÃ±o su concepto de seguridad y forma de trabajo para ofrecer un servicio de calidad.</p>
+                <p class="letra-quienessomos">Empresa que brinda servicios de vigilancia privada, cuenta con un sólido prestigio en el mercado gracias a sus lineamientos de eficacia, responsabilidad, disciplina y prevención.</p>
+                <p class="letra-quienessomos"> Cuenta con mas de 2 años trabajando en el mercado de seguridad corporativo, mejorando y modernizando cada año su concepto de seguridad y forma de trabajo para ofrecer un servicio de calidad.</p>
             </div>
     </div>
     <!-- Quienes Somos Fin -->
@@ -66,7 +80,7 @@
             <div id="slider">
                 <section>
                     <img src="images/slide1.png" alt="">
-                    <p>Ser una de las empresas de seguridad lÃ­der en el mercado por ofrecer un servicio de seguridad diferenciado, con altos estÃ¡ndares de calidad y eficiencia. Cumpliendo con las necesidades y exigencias de las distintas empresas que desean un servicio de seguridad Ã³ptimo.</p>
+                    <p>Ser una de las empresas de seguridad líder en el mercado por ofrecer un servicio de seguridad diferenciado, con altos estándares de calidad y eficiencia. Cumpliendo con las necesidades y exigencias de las distintas empresas que desean un servicio de seguridad óptimo.</p>
                 </section>
                 <section>
                     <img src="images/slide2.png" alt="">
@@ -75,10 +89,10 @@
                 <section>
                     <img src="images/slide3.png" alt="">
                     <p>
-                        Servicio: Debe ser una actitud permanente en los funcionarios de la OrganizaciÃ³n.<br>
-                        Respeto: Frente a la OrganizaciÃ³n y al objeto del contrato, respondiendo efectivamente los requerimientos del Sistema.<br>
-                        Lealtad: Por nuestra OrganizaciÃ³n y hacia nuestros clientes.<br>
-                        Honestidad: Debe ser una actitud permanente en los funcionarios de la OrganizaciÃ³n.<br>
+                        Servicio: Debe ser una actitud permanente en los funcionarios de la Organización.<br>
+                        Respeto: Frente a la Organización y al objeto del contrato, respondiendo efectivamente los requerimientos del Sistema.<br>
+                        Lealtad: Por nuestra Organización y hacia nuestros clientes.<br>
+                        Honestidad: Debe ser una actitud permanente en los funcionarios de la Organización.<br>
                         Justicia: Mantener el derecho de nuestros colaboradores.<br>
                     </p>
                 </section>
@@ -94,11 +108,11 @@
         <h1 class="century-h1">NUESTRO PERSONAL</h1>
 		<hr>
 		    <div class="col-xs-8 col-sm-8 col-md-8">
-                <p class="letra-nueper">El personal de agentes de seguridad CENTURY SAC  recibe constantemente orientaciÃ³n de establecimiento a resguardar. A su vez reciben cursos de instrucciÃ³n, capacitaciÃ³n en materia de seguridad privada.</p>
-		        <span class="glyphicon glyphicon-ok letra-nueper"> Ã‰tica</span><br>
+                <p class="letra-nueper">El personal de agentes de seguridad CENTURY SAC  recibe constantemente orientación de establecimiento a resguardar. A su vez reciben cursos de instrucción, capacitación en materia de seguridad privada.</p>
+		        <span class="glyphicon glyphicon-ok letra-nueper"> Ética</span><br>
 		        <span class="glyphicon glyphicon-ok letra-nueper"> Normas y Procedimientos de Seguridad</span><br>
 		        <span class="glyphicon glyphicon-ok letra-nueper"> Manejo de equipos de seguridad</span><br>
-		        <span class="glyphicon glyphicon-ok letra-nueper"> IdentificaciÃ³n de personas</span><br>
+		        <span class="glyphicon glyphicon-ok letra-nueper"> Identificación de personas</span><br>
 		        <span class="glyphicon glyphicon-ok letra-nueper"> Defensa personal</span><br>
 		        <span class="glyphicon glyphicon-ok letra-nueper"> Armamento y tiro</span><br>
 		        <span class="glyphicon glyphicon-ok letra-nueper"> Primeros auxilios</span><br>
@@ -118,13 +132,13 @@
             <div class="col-xs-6 col-sm-3 col-md-3 portafolio-item">
 		        <a href="https://www.pnp.gob.pe/" target="_blank"><center><img class="img-aliados" src="images/pnp.png"></center></a>    
                 <div class="portafolio-text">
-                    <h1>PolÃ­cia Nacional del PerÃº</h1>
+                    <h1>Polícia Nacional del Perú</h1>
                 </div>
             </div>
             <div class="col-xs-6 col-sm-3 col-md-3 portafolio-item">
 		        <a href="http://www.bomberosperu.gob.pe/" target="_blank"><center><img class="img-aliados" src="images/bomberos.png"></center></a>
 		        <div class="portafolio-text">
-                    <h1>CompaÃ±Ã­a de bomberos de Trujillo</h1>
+                    <h1>Compañía de bomberos de Trujillo</h1>
                 </div>
             </div>
             <div class="col-xs-6 col-sm-3 col-md-3 portafolio-item">
@@ -134,7 +148,7 @@
                 </div>
 		    </div>
 		    <div class="col-xs-6 col-sm-3 col-md-3 portafolio-item">
-		        <a href="http://www.hrdt.com.pe" target="_blank"><center><img class="img-aliados" src="images/hospital.png"></center></a>
+		        <a href="http://www.hrdt.com.pe" target="_blank"><center><img class="img-aliados" src="http://www.hrdt.com.pe/images/HRDT/portal/valores-hrdt.jpg"></center></a>
 		        <div class="portafolio-text">
                     <h1>Hospital Regional Docente de Trujillo</h1>
                 </div>
@@ -224,4 +238,4 @@
     <script type="text/javascript" src="js/slider.js"></script>
 </body>
 </html>
-    
+    			
